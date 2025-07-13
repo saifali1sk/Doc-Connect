@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Doc-Connect/static/css/main.faf576ef.css",
-    "main.js": "/Doc-Connect/static/js/main.de0e8b6e.js",
+    "main.js": "/Doc-Connect/static/js/main.e6cb07a3.js",
     "index.html": "/Doc-Connect/index.html",
     "main.faf576ef.css.map": "/Doc-Connect/static/css/main.faf576ef.css.map",
-    "main.de0e8b6e.js.map": "/Doc-Connect/static/js/main.de0e8b6e.js.map"
+    "main.e6cb07a3.js.map": "/Doc-Connect/static/js/main.e6cb07a3.js.map"
   },
   "entrypoints": [
     "static/css/main.faf576ef.css",
-    "static/js/main.de0e8b6e.js"
+    "static/js/main.e6cb07a3.js"
   ]
 }
