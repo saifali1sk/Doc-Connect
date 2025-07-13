@@ -7,7 +7,7 @@ const Home = () => {
         <div className="home-container">
             <section className="hero-section">
                 <div className="hero-content">
-                    <h1>Quality Healthcare, Just a Click Away.</h1>
+                    <h1>Your Health, Our Priority. Welcome to Doc-Connect!</h1>
                     <p>Easily find and book appointments with top-rated doctors near you.</p>
                     <Link to="/appointments" className="cta-button">Book an Appointment Now</Link>
                 </div>
